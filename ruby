@@ -43,7 +43,7 @@ echo "Installing Elastic Search for full text searching ..."
 cd ~
 sudo apt-get install openjdk-6-jre -y
 
-wget https://github.com/downloads/elasticsearch/elasticsearch/elasticsearch-0.19.7.tar.gz -O elasticsearch.tar.gz
+wget https://github.com/downloads/elasticsearch/elasticsearch/elasticsearch-0.19.8.tar.gz -O elasticsearch.tar.gz
 
 tar -xf elasticsearch.tar.gz
 rm elasticsearch.tar.gz
